@@ -1,4 +1,4 @@
-# Simple gulp builder [less, es6]
+# Simple gulp builder [sass, es6, vue 3]
 
 Fast builder for your static page projects (not SPA).
 
