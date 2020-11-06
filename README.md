@@ -9,7 +9,7 @@
 
 Fast builder for your static page projects (not SPA).
 
-## Installation
+## Installation 🚀
 
 Open your console and type:
 
@@ -19,6 +19,6 @@ Open your console and type:
 
 3. Write your code.
 
-## Build production
+## Build production 🔨
 
 To build a production version of your app you need to type `gulp build` in a console. This will create dist folder where everything will be compressed and minified.
