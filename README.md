@@ -1,4 +1,11 @@
-# Simple gulp builder [sass, es6, vue 3]
+<p align="center">
+  <a href="https://gulpjs.com">
+    <img height="257" width="114" src="https://raw.githubusercontent.com/gulpjs/artwork/master/gulp-2x.png">
+  </a>
+  <p align="center">Simple gulp builder [sass, es6, vue 3]</p>
+</p>
+
+<br />
 
 Fast builder for your static page projects (not SPA).
 
