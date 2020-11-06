@@ -21,8 +21,7 @@
     "gulp-svgmin": "^1.2.4",
     "gulp-svgstore": "^6.1.0",
     "imagemin": "^7.0.1",
-    "imagemin-jpegtran": "^6.0.0",
-    "jquery": "^3.3.1"
+    "imagemin-jpegtran": "^6.0.0"
   },
   "devDependencies": {
     "browser-sync": "^2.26.13",
@@ -37,7 +36,6 @@
     "gulp-uglify": "^3.0.1",
     "gulp-uglifyjs": "^0.6.2",
     "imagemin-pngquant": "^5.1.0",
-    "less": "^3.8.1",
     "node-sass": "^5.0.0",
     "smart-grid": "^2.1.2"
   }
