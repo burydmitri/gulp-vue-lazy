@@ -1,1 +1,1 @@
-{"version":3,"sources":["style.sass","style.css"],"names":[],"mappings":"AAAA;EACE,gBAAe;CCChB","file":"style.css","sourcesContent":[".iOS {\n  cursor: pointer; }\n",".iOS {\n  cursor: pointer;\n}"]}
+{"version":3,"sources":["style.sass","style.css"],"names":[],"mappings":"AAQA;EACE,gBAAe;CCPhB","file":"style.css","sourcesContent":["// Import sass modules\n\n@import \"fonts\";\n@import \"mixins\";\n@import \"variables\";\n\n// Your styles\n\n.iOS {\n  cursor: pointer; }\n",".iOS {\n  cursor: pointer;\n}"]}
