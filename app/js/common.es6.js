@@ -1,9 +1,3 @@
-// Your Vue app
-// (function () {
-//   const your-app = Vue.createApp({});
-//   your-app.mount('#app');
-// }());
-
 // check isTouch and isIOS
 (function () {
   const body = document.body;
